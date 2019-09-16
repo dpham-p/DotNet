@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace ConsoleDataAccessTextFiles
+namespace ConsoleUI
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string filePath = @"C:\Users\donal\OneDrive\Documents\Git Repositories\CSharp\DotNet\ConsoleDataAccessTextFiles\ConsoleDataAccessTextFiles\Test.txt";
+            string filePath =  @"C:\Users\donal\OneDrive\Documents\Git Repositories\CSharp\DotNet\ConsoleUI\DataAccessTextFiles\Test.txt";
 
             // File.ReadAllLines(filePath) returns array of strings.  Change to List of strings to add and remove strings easier.
             List<string> lines = File.ReadAllLines(filePath).ToList();

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{48337441-1982-40B2-8FE1-D165495EF016}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleDataAccessTextFiles</RootNamespace>
-    <AssemblyName>ConsoleDataAccessTextFiles</AssemblyName>
+    <RootNamespace>ConsoleUI</RootNamespace>
+    <AssemblyName>DataAccessTextFiles</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -2,3 +2,4 @@ Donald Pham
 This is a test text file.
 September 15, 2019
 This line was added.
+This line was added.
