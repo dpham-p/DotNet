@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDataAccessTextFiles", "ConsoleDataAccessTextFiles\ConsoleDataAccessTextFiles.csproj", "{48337441-1982-40B2-8FE1-D165495EF016}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "FormUI\FormUI.csproj", "{8A7D7EFD-66BE-403F-8B2D-4232D8849B46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{48337441-1982-40B2-8FE1-D165495EF016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48337441-1982-40B2-8FE1-D165495EF016}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{48337441-1982-40B2-8FE1-D165495EF016}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{48337441-1982-40B2-8FE1-D165495EF016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7D7EFD-66BE-403F-8B2D-4232D8849B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7D7EFD-66BE-403F-8B2D-4232D8849B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7D7EFD-66BE-403F-8B2D-4232D8849B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7D7EFD-66BE-403F-8B2D-4232D8849B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B44A93FA-2DCB-4F71-A743-08780469A833}
+		SolutionGuid = {2A657B21-DCEF-4CB3-B0C9-72CC62D952A5}
 	EndGlobalSection
 EndGlobal
