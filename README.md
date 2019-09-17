@@ -1,2 +1,2 @@
 # DotNet
-.NET Framework practice programs/practice
+.NET Framework practice programs/projects
